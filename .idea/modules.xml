@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../06-SSM-01-Wyy--01/06-SSM-01-Wyy--01.iml" filepath="$PROJECT_DIR$/../06-SSM-01-Wyy--01/06-SSM-01-Wyy--01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-02-Poverty-Alleviation/06-SSM-02-Poverty-Alleviation.iml" filepath="$PROJECT_DIR$/06-SSM-02-Poverty-Alleviation/06-SSM-02-Poverty-Alleviation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-03-cloud-diary/06-SSM-03-cloud-diary.iml" filepath="$PROJECT_DIR$/06-SSM-03-cloud-diary/06-SSM-03-cloud-diary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-JWT-00-Session-Cookie/07-JWT-00-Session-Cookie.iml" filepath="$PROJECT_DIR$/07-JWT-00-Session-Cookie/07-JWT-00-Session-Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-JWT-01-Start/07-JWT-01-Start.iml" filepath="$PROJECT_DIR$/07-JWT-01-Start/07-JWT-01-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-JWT-02-Web/07-JWT-02-Web.iml" filepath="$PROJECT_DIR$/07-JWT-02-Web/07-JWT-02-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-JWT-03-Interceptor/07-JWT-03-Interceptor.iml" filepath="$PROJECT_DIR$/07-JWT-03-Interceptor/07-JWT-03-Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-00-Starter/08-SpringBoot-00-Starter.iml" filepath="$PROJECT_DIR$/08-SpringBoot-00-Starter/08-SpringBoot-00-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringBoot-01-Starter/08-SpringBoot-01-Starter.iml" filepath="$PROJECT_DIR$/08-SpringBoot-01-Starter/08-SpringBoot-01-Starter.iml" />
+    </modules>
+  </component>
+</project>

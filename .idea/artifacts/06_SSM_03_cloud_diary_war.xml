@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="06-SSM-03-cloud-diary:war">
+    <output-path>$PROJECT_DIR$/06-SSM-03-cloud-diary/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>06-SSM-03-cloud-diary</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="06-SSM-03-cloud-diary-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="06-SSM-03-cloud-diary:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+# Project exclude paths
+/06-SSM-02-Poverty-Alleviation/target/
+/06-SSM-03-cloud-diary/target/
+/07-JWT-00-Session-Cookie/target/
+/07-JWT-01-Start/target/
+/07-JWT-02-Web/target/
+/07-JWT-03-Interceptor/target/
+/08-SpringBoot-00-Starter/target/
+/out/

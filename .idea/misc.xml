@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../06-SSM-01-Wyy--01" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy-01" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-02-Poverty-Alleviation" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-02-Wyy" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-03-cloud-diary" />
+    <file type="web" url="file://$PROJECT_DIR$/07-JWT-00-Session-Cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/07-JWT-02-Web" />
+    <file type="web" url="file://$PROJECT_DIR$/07-JWT-03-Interceptor" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../06-SSM-01-Wyy--01/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-01-Wyy-02/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-02-Wyy-01/pom.xml" />
+        <option value="$PROJECT_DIR$/07-JWT-00-Session-Cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/07-JWT-01-Start/pom.xml" />
+        <option value="$PROJECT_DIR$/07-JWT-02-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/07-JWT-03-Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-02-Poverty-Alleviation/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-00-Starter/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-03-clond-diary/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-03-cloud-diary/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-01-Starter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

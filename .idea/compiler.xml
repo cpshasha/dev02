@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="07-JWT-02-Web" />
+        <module name="07-JWT-01-Start" />
+        <module name="08-SpringBoot-00-Starter" />
+        <module name="06-SSM-03-cloud-diary" />
+        <module name="07-JWT-00-Session-Cookie" />
+        <module name="07-JWT-03-Interceptor" />
+        <module name="06-SSM-01-Wyy--01" />
+        <module name="06-SSM-02-Poverty-Alleviation" />
+        <module name="08-SpringBoot-01-Starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="06-SSM-01-Wyy" target="1.8" />
+      <module name="06-SSM-01-Wyy--01" target="1.8" />
+      <module name="06-SSM-01-Wyy-01" target="1.8" />
+      <module name="06-SSM-02-Poverty-Alleviation" target="1.8" />
+      <module name="06-SSM-02-Wyy" target="1.8" />
+      <module name="06-SSM-03-cloud-diary" target="1.8" />
+      <module name="07-JWT-00-Session-Cookie" target="1.8" />
+      <module name="07-JWT-01-Start" target="1.8" />
+      <module name="07-JWT-02-Web" target="1.8" />
+      <module name="07-JWT-03-Interceptor" target="1.8" />
+      <module name="08-SpringBoot-00-Starter" target="1.8" />
+      <module name="08-SpringBoot-01-Starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="08-SpringBoot-00-Starter" options="-parameters" />
+      <module name="08-SpringBoot-01-Starter" options="-parameters" />
+    </option>
+  </component>
+</project>

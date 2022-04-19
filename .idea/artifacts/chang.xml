@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chang">
+    <output-path>$PROJECT_DIR$/out/artifacts/chang</output-path>
+    <root id="archive" name="chang.war">
+      <element id="artifact" artifact-name="06-SSM-02-Poverty-Alleviation:war exploded" />
+    </root>
+  </artifact>
+</component>
